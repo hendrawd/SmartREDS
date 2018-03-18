@@ -1,8 +1,7 @@
 # SmartREDS
 Smart Real Estate Data System
 
-[![Final Submission Video](http://img.youtube.com/vi/HE8liWRGbz0
-/0.jpg)](http://www.youtube.com/watch?v=HE8liWRGbz0
+[![Final Submission Video](http://img.youtube.com/vi/HE8liWRGbz0/0.jpg)](http://www.youtube.com/watch?v=HE8liWRGbz0
  "Final Submission Video")
 
 ## PROJECT SUMMARY
